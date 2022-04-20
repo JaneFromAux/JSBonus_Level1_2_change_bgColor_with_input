@@ -1,0 +1,37 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size:62.5%;
+}
+/* body{
+    background-color: navy;
+} */
+form{
+    border: 1px solid #000;
+    width: 15%;
+    text-align:center;
+    padding:40px 0;
+    margin: 6vh auto;
+    border-radius: 8px;
+    background-color: aqua;
+    box-shadow: 0 0 30px black;
+}
+form h2{
+    font-size: 2rem;
+    padding: 3vh 0;
+}
+form button{
+    width: 75%;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    background-color:antiquewhite;
+    border-radius: 5px;
+    border:1px solid black;
+    box-shadow: 0 0 10px black;
+}
+
